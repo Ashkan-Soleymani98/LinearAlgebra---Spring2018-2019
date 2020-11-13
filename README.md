@@ -1,5 +1,5 @@
 # LinearAlgebra---Spring2018-2019
-Computer Simulation <br />
+Linear Algebra <br />
 Undergraduate Course (Spring 2018-2019) <br />
 Sharif University of Technology <br />
 Computer Engineering Department <br />
